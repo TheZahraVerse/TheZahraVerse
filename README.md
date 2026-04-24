@@ -20,6 +20,8 @@ Hey there👋🏼 I'm Zahra Sharifi - Welcome to ** 𝘛𝘩𝘦𝘡𝘢𝘩𝘳
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
 ![JavaFX](https://img.shields.io/badge/javafx-%23007ACC.svg?style=for-the-badge&logoColor=white) &nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
@@ -27,6 +29,7 @@ Hey there👋🏼 I'm Zahra Sharifi - Welcome to ** 𝘛𝘩𝘦𝘡𝘢𝘩𝘳
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 🗃️ 𝘔𝘺 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴 :
 ### 🔓Public Projects 
