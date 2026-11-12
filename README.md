@@ -90,6 +90,99 @@ Hey there 👋🏼 I'm Zahra Sharifi.
 
 <br />
 
+
+<!-- studio:projects -->
+<h2 align="center">Projects & Contributions💻</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CONTRIBUTING-8B5CF6?style=for-the-badge" />
+</p>
+
+<h3 align="center">Personal Projects👩🏼‍💻</h3>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TheZahraVerse/poomsae-operator">Poomsae Operator</a></h3>
+      <p><sub>DESKTOP APPLICATION</sub></p>
+      <p>A desktop application for managing Poomsae competitions, featuring an operator panel and a real-time display system.</p>
+      <img src="https://img.shields.io/badge/Tauri-8B5CF6?style=flat-square&logo=tauri&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-8B5CF6?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinia-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TheZahraVerse/Unimate">Unimate</a></h3>
+      <p><sub>STUDENT WEB APPLICATION</sub></p>
+      <p>A student-oriented web application designed to simplify university life through a modern web interface.</p>
+      <img src="https://img.shields.io/badge/Django-8B5CF6?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Inertia.js-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&logo=vite&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TheZahraVerse/SwiftStation">SwiftStation</a></h3>
+      <p><sub>ANDROID APPLICATION</sub></p>
+      <p>An Android application that simulates train rearrangement using stack-based logic and validates possible train permutations.</p>
+      <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android_SDK-8B5CF6?style=flat-square&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android_Studio-8B5CF6?style=flat-square&logo=androidstudio&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TheZahraVerse/mini-project">Mini Project</a></h3>
+      <p><sub>FULL-STACK PRACTICE</sub></p>
+      <p>A practice project exploring frontend-backend communication, API integration, and the foundations of a real estate platform.</p>
+      <img src="https://img.shields.io/badge/Django-8B5CF6?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TheZahraVerse/Library-project">Library System</a></h3>
+      <p><sub>CONSOLE APPLICATION</sub></p>
+      <p>A C-based library management system built to practice data structures, file handling, and structured programming.</p>
+      <img src="https://img.shields.io/badge/C-8B5CF6?style=flat-square&logo=c&logoColor=white" />
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
+
+<br />
+
+<h3 align="center">Contributions🫱🏼‍🫲</h3>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/KasraMehr/poomsae">Poomsae</a></h3>
+      <p><sub>COMPETITION MANAGEMENT SYSTEM</sub></p>
+      <p>Contributed to frontend development, including the competition scoreboard interface.</p>
+      <img src="https://img.shields.io/badge/Laravel-8B5CF6?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-8B5CF6?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Inertia.js-8B5CF6?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/KasraMehr/property_seeker">Property Seeker</a></h3>
+      <p><sub>REAL ESTATE WEB APPLICATION</sub></p>
+      <p>Contributed to frontend development for a real estate web application.</p>
+      <img src="https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/RezaSahraie/Project-University">Project University</a></h3>
+      <p><sub>EDUCATIONAL DESKTOP SYSTEM</sub></p>
+      <p>A team-developed university management application with student administration and academic workflows.</p>
+      <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaFX-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Maven-8B5CF6?style=flat-square&logo=apachemaven&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <!-- studio:langs+stats -->
 <p align="center">
   <picture>
