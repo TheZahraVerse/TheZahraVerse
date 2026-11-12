@@ -117,9 +117,9 @@ Hey there 👋🏼 I'm Zahra Sharifi.
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-mini-project-dark.svg?username=TheZahraVerse&repo=mini-project&show_owner=true" />
     <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-mini-project-light.svg?username=TheZahraVerse&repo=mini-project&show_owner=true" alt="mini-project" width="33%" />
   </picture></a>
-  <a href="https://github.com/TheZahraVerse/pomsae-operator"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-pomsae-operator-dark.svg?username=TheZahraVerse&repo=pomsae-operator&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-pomsae-operator-light.svg?username=TheZahraVerse&repo=pomsae-operator&show_owner=true" alt="pomsae-operator" width="33%" />
+  <a href="https://github.com/TheZahraVerse/poomsae-operator"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-operator-dark.svg?username=TheZahraVerse&repo=poomsae-operator&show_owner=true" />
+    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-operator-light.svg?username=TheZahraVerse&repo=poomsae-operator&show_owner=true" alt="poomsae-operator" width="33%" />
   </picture></a>
   <a href="https://github.com/KasraMehr/poomsae"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-dark.svg?username=KasraMehr&repo=poomsae&show_owner=true" />
