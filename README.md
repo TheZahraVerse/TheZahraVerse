@@ -49,37 +49,44 @@ Hey there 👋🏼 I'm Zahra Sharifi.
 <!-- studio:stack -->
 <h2 align="center">Tech Stack🔭</h2>
 
-<p align="center">
-  <b>Programming Languages</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-programming-languages-dark.svg?i=java%2Cpy%2Cc&perline=10" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-programming-languages-light.svg?i=java,py,c&perline=10" alt="Programming Languages: java, py, c" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>Frontend Development</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-frontend-development-dark.svg?i=html%2Ccss%2Cjs%2Creact%2Cvue%2Ctailwind%2Cvite%2Cfigma&perline=10" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-frontend-development-light.svg?i=html,css,js,react,vue,tailwind,vite,figma&perline=10" alt="Frontend Development: html, css, js, react, vue, tailwind, vite, figma" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>DevOps and cloud</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-devops-and-cloud-dark.svg?i=docker%2Cgithubactions%2Clinux&perline=10" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-devops-and-cloud-light.svg?i=docker,githubactions,linux&perline=10" alt="DevOps and cloud: docker, githubactions, linux" />
-  </picture>
-</p>
-
-<p align="center">
-  <b>Tools</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-tools-dark.svg?i=vscode%2Cgit%2Cgithub%2Cnotion&perline=10" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-tools-light.svg?i=vscode,git,github,notion&perline=10" alt="Tools: vscode, git, github, notion" />
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-programming-languages-dark.svg?i=java%2Cpy%2Cc&perline=4" />
+        <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-programming-languages-light.svg?i=java,py,c&perline=4" alt="Programming Languages: java, py, c" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-frontend-development-dark.svg?i=html%2Ccss%2Cjs%2Creact%2Cvue%2Ctailwind%2Cvite%2Cfigma&perline=4" />
+        <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-frontend-development-light.svg?i=html,css,js,react,vue,tailwind,vite,figma&perline=4" alt="Frontend Development: html, css, js, react, vue, tailwind, vite, figma" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps and cloud</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-devops-and-cloud-dark.svg?i=docker%2Cgithubactions%2Clinux&perline=4" />
+        <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-devops-and-cloud-light.svg?i=docker,githubactions,linux&perline=4" alt="DevOps and cloud: docker, githubactions, linux" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-tools-dark.svg?i=vscode%2Cgit%2Cgithub%2Cnotion&perline=4" />
+        <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/stack-tools-light.svg?i=vscode,git,github,notion&perline=4" alt="Tools: vscode, git, github, notion" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br />
 
