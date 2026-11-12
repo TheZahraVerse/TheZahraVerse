@@ -104,51 +104,6 @@ Hey there 👋🏼 I'm Zahra Sharifi.
 
 <br />
 
-<!-- studio:repos -->
-<h2 align="center">Projects &amp; Contributions💻</h2>
-
-<p align="center">
-  <a href="https://github.com/TheZahraVerse/Library-project"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-library-project-dark.svg?username=TheZahraVerse&repo=Library-project&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-library-project-light.svg?username=TheZahraVerse&repo=Library-project&show_owner=true" alt="Library-project" width="33%" />
-  </picture></a>
-  <a href="https://github.com/TheZahraVerse/SwiftStation"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-swiftstation-dark.svg?username=TheZahraVerse&repo=SwiftStation&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-swiftstation-light.svg?username=TheZahraVerse&repo=SwiftStation&show_owner=true" alt="SwiftStation" width="33%" />
-  </picture></a>
-  <a href="https://github.com/TheZahraVerse/Unimate"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-unimate-dark.svg?username=TheZahraVerse&repo=Unimate&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-unimate-light.svg?username=TheZahraVerse&repo=Unimate&show_owner=true" alt="Unimate" width="33%" />
-  </picture></a>
-  <a href="https://github.com/TheZahraVerse/mini-project"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-mini-project-dark.svg?username=TheZahraVerse&repo=mini-project&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-mini-project-light.svg?username=TheZahraVerse&repo=mini-project&show_owner=true" alt="mini-project" width="33%" />
-  </picture></a>
-  <a href="https://github.com/TheZahraVerse/poomsae-operator"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-operator-dark.svg?username=TheZahraVerse&repo=poomsae-operator&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-operator-light.svg?username=TheZahraVerse&repo=poomsae-operator&show_owner=true" alt="poomsae-operator" width="33%" />
-  </picture></a>
-  <a href="https://github.com/KasraMehr/poomsae"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-dark.svg?username=KasraMehr&repo=poomsae&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-poomsae-light.svg?username=KasraMehr&repo=poomsae&show_owner=true" alt="poomsae" width="33%" />
-  </picture></a>
-  <a href="https://github.com/KasraMehr/property_seeker"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-property-seeker-dark.svg?username=KasraMehr&repo=property_seeker&show_owner=true" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-repo-property-seeker-light.svg?username=KasraMehr&repo=property_seeker&show_owner=true" alt="property_seeker" width="33%" />
-  </picture></a>
-</p>
-
-<br />
-
-<!-- studio:metrics plugins=isocalendar -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-overview-dark.svg?plugins=isocalendar" />
-    <img src="https://raw.githubusercontent.com/TheZahraVerse/TheZahraVerse/main/profile-assets/card-overview-light.svg?plugins=isocalendar" alt="Year overview" />
-  </picture>
-</p>
-
-<br />
 
 <!-- studio:footer -->
 <p align="center"><sub>💜 Thanks for stopping by! See you among the stars ✨</sub></p>
